@@ -1,3 +1,12 @@
+# Goals of the fork
++ To provide multiplatform support for NuGet package (.NET 4.5, .NET Standard 2.0)
++ To improve XML comments
++ To provide DXF rendering library using SkiaSharp and imbSCI.Graph's SVG capability.
++ To create demo Xamarin.Forms 3.0 Windows WPF, Android and iOS demo DXF viewer application.
+
+Current documentation:
+http://doc.veles.rs/
+
 # netDxf
 netDxf 2.1.0 Copyright(C) 2009-2018 Daniel Carvajal, Licensed under LGPL
 ## Description
