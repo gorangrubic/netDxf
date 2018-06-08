@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<topic id="c6a131b8-bb5f-4830-a049-0f59f7f70d9e" revisionNumber="1">
+	<developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<introduction>
+			<para>netDxf is a .net library programmed in C# to read and write AutoCAD dxf files. It supports AutoCad2000, AutoCad2004, AutoCad2007, AutoCad2010, AutoCad2013, and AutoCad2018 dxf database versions, in both text and binary format.</para>
+		</introduction>
+
+		<section>
+			<title>Daniel Carvajal's netDXF 2.1.0</title>
+			<content>
+				<para> Original description
+          netDxf is a .net library programmed in C# to read and write AutoCAD dxf files. It supports AutoCad2000, AutoCad2004, AutoCad2007, AutoCad2010,  AutoCad2013, and AutoCad2018 dxf database versions, in both text and binary format.
+          The library is easy to use and I tried to keep the procedures as straightforward as possible, for example you will not need to fill up the table section with layers, styles or line type definitions. The DxfDocument will take care of that every time a new item is added.
+        </para>
+
+        <para>Goals of the fork</para>
+
+				<list class="bullet">
+          
+					<listItem>
+						<para>To improve XML comments</para>
+					</listItem>
+
+					<listItem>
+						<para>To provide multiplatform support for NuGet package</para>
+					</listItem>
+
+					<listItem>
+						<para>To provide DXF rendering library using SkiaSharp and imbSCI.Graph's SVG capability.</para>
+					</listItem>
+
+					<listItem>
+						<para>To create demo Xamarin.Forms 3.0 Windows WPF, Android and iOS demo DXF viewer application.</para>
+					</listItem>
+				</list>
+
+			</content>
+		</section>
+
+		<relatedTopics>
+			<link xlink:href="c7c7a7a8-da7d-45de-bcac-979fc3ba2117" />
+      <externalLink>
+        <linkText>imbVeles Open Source project</linkText>
+        <linkUri>http://blog.veles.rs</linkUri>
+      </externalLink>
+      <externalLink>
+        <linkText>Repository of the fork</linkText>
+        <linkUri>https://github.com/gorangrubic/netDxf</linkUri>
+      </externalLink>
+      <externalLink>
+        <linkText>Origitnal GitHub repository</linkText>
+        <linkUri>https://github.com/haplokuon/netDxf</linkUri>
+      </externalLink>
+		</relatedTopics>
+	</developerConceptualDocument>
+</topic>
