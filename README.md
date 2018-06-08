@@ -7,6 +7,9 @@
 Current documentation:
 http://doc.veles.rs/
 
+NuGet package:
+https://www.nuget.org/packages/netDXF.Standard/2.1.1
+
 # netDxf
 netDxf 2.1.0 Copyright(C) 2009-2018 Daniel Carvajal, Licensed under LGPL
 ## Description
